@@ -10,7 +10,7 @@ Its less of an documentaion and more of a cheat sheet.
 
 # Note: You can add multiple classes into a single html element.
 
-Colors
+# Colors
 	There are total 10 colours with 3 levels each except cyan.
 blue
 red
@@ -26,7 +26,7 @@ white
 To change background in class attribute add class=“bg-red1” and for color 
 add attribute class=“red1” .
 
-Button
+# Button
 	Buttons are of two 4 types. 
 1. Large Button  (class=”btn-lg”)
 2. Medium Button (class=”btn-md”)
@@ -35,7 +35,7 @@ Button
 
 	NOTE: Use this only for button tags.
 
-Typography 
+# Typography 
 Margins: 
 	1. (class=”margin1”): Content width=95%
 	2. (class=”margin2”):Content width=90%
@@ -51,7 +51,7 @@ Font:
 	There are total 18 fonts. So you can used (1 – 18) to change fonts. 
 	class=”font1” 
 
-Positioning:
+# Positioning
 	Only horizontally:
 class ="flex-row-start" 
 Position child element from left.
