@@ -1,4 +1,5 @@
 # CSSLibrary
+#https://customcsslibrary-beta.netlify.app/
 Its a lightweight CSS library to make Plain HTML look better and editable using class attributes..
 Thank You For Checking Out.
 Welcome To My 1st CSS Library. If you find anything difficult feel free to critic me.
@@ -7,7 +8,7 @@ Facebook: Saramsh Shrestha
 Instagram: Saramsh Troublesome 
 Its less of an documentaion and more of a cheat sheet.
 
-Note: You can add multiple classes into a single html element.
+#Note: You can add multiple classes into a single html element.
 
 Colors
 	There are total 10 colours with 3 levels each except cyan.
