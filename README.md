@@ -22,7 +22,10 @@ gray
 pink
 cyan
 white
-	Every color has 3 levels 1= light 2= medium 3= dark, except Cyan.
+	Every color has 3 levels 
+		1= light, 
+		2= medium, 
+		3= dark, except Cyan.
 To change background in class attribute add class=“bg-red1” and for color 
 add attribute class=“red1” .
 
